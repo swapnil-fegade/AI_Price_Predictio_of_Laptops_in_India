@@ -1,0 +1,501 @@
+Brand,Processor,RAM_GB,Storage_GB,Screen_Size_Inches,Price_USD
+Lenovo,AMD Ryzen 3,16,1024,14.0,860
+Apple,Apple M1,32,512,14.2,1460
+HP,AMD Ryzen 3,16,1024,15.6,760
+Microsoft,AMD Ryzen 5,32,1024,13.5,1230
+Lenovo,AMD Ryzen 9,32,256,15.6,1260
+Samsung,Intel i7,8,512,14.0,940
+Acer,AMD Ryzen 7,16,512,17.0,1010
+HP,Intel i9,8,256,17.0,1120
+Acer,AMD Ryzen 5,8,1024,15.6,750
+Asus,Intel i9,16,1024,15.6,1260
+Microsoft,Intel i9,8,1024,13.5,1340
+Asus,Intel i7,32,256,14.0,1070
+Dell,AMD Ryzen 7,8,512,15.6,830
+HP,Intel i9,32,256,15.6,1220
+Acer,Intel i9,8,512,14.0,1070
+Lenovo,Intel i7,16,256,15.6,860
+Microsoft,Intel i7,8,512,13.5,1050
+Acer,Intel i7,12,1024,14.0,1010
+Samsung,Intel i9,4,512,14.0,1070
+MSI,AMD Ryzen 7,16,512,15.6,1070
+HP,Intel i7,32,1024,14.0,1190
+Dell,Intel i3,32,1024,15.6,960
+Microsoft,Intel i7,32,512,13.5,1290
+Lenovo,AMD Ryzen 5,16,1024,15.6,900
+MSI,AMD Ryzen 9,8,2048,15.6,1460
+MSI,AMD Ryzen 3,4,256,15.6,600
+HP,Intel i5,16,1024,14.0,890
+Apple,Apple M1,8,512,13.6,1180
+Microsoft,Intel i7,12,1024,13.5,1170
+Asus,AMD Ryzen 7,32,1024,15.6,1160
+Acer,Intel i7,16,512,15.6,930
+Apple,Apple M2,16,1024,13.6,1540
+Microsoft,Intel i7,8,1024,13.5,1140
+Samsung,AMD Ryzen 7,32,256,15.6,1050
+Samsung,AMD Ryzen 5,32,512,15.6,950
+HP,Intel i9,16,512,15.6,1140
+Dell,AMD Ryzen 7,32,1024,15.6,1210
+Apple,Apple M2,8,512,14.2,1420
+HP,AMD Ryzen 3,12,2048,17.0,1060
+Acer,AMD Ryzen 3,8,512,15.6,590
+Dell,Intel i5,32,256,15.6,880
+Samsung,Intel i7,12,2048,17.0,1290
+Dell,AMD Ryzen 7,12,512,15.6,900
+Lenovo,Intel i7,32,2048,15.6,1390
+Microsoft,Intel i5,32,512,13.5,1140
+MSI,AMD Ryzen 3,12,1024,15.6,820
+Dell,AMD Ryzen 3,32,256,14.0,830
+Acer,Intel i7,32,1024,15.6,1120
+Apple,Apple M1,16,512,13.3,1280
+Apple,Apple M2,16,1024,13.6,1570
+Dell,Intel i3,8,512,17.0,700
+Asus,Intel i5,8,256,14.0,690
+Asus,Intel i3,32,256,15.6,790
+Apple,Apple M2,16,512,13.6,1430
+Apple,Apple M1,8,256,13.6,1210
+Apple,Apple M1,16,512,14.2,1360
+Acer,AMD Ryzen 9,8,256,17.3,1090
+MSI,AMD Ryzen 7,16,1024,14.0,1200
+MSI,AMD Ryzen 5,32,512,17.0,1150
+Lenovo,Intel i3,12,2048,15.6,900
+Asus,AMD Ryzen 7,16,512,17.3,1040
+Lenovo,Intel i9,32,512,15.6,1290
+MSI,Intel i7,16,512,15.6,1030
+Samsung,AMD Ryzen 5,8,1024,15.6,850
+Acer,Intel i9,12,1024,15.6,1160
+Microsoft,Intel i9,16,1024,13.5,1430
+MSI,AMD Ryzen 7,16,1024,15.6,1120
+Asus,Intel i3,16,256,15.6,670
+HP,AMD Ryzen 3,32,1024,15.6,970
+HP,AMD Ryzen 5,12,2048,15.6,1060
+Dell,AMD Ryzen 5,8,1024,14.0,800
+Samsung,AMD Ryzen 5,32,1024,15.6,1080
+Apple,Apple M3,8,512,13.6,1550
+MSI,Intel i9,12,512,15.6,1150
+Microsoft,Intel i5,12,1024,13.5,990
+Dell,AMD Ryzen 5,12,256,17.3,850
+Samsung,Intel i9,16,256,17.0,1230
+Apple,Apple M3,8,256,13.6,1450
+Dell,AMD Ryzen 3,8,512,15.6,600
+Acer,AMD Ryzen 9,32,512,15.6,1240
+Lenovo,Intel i9,8,256,15.6,990
+HP,AMD Ryzen 9,16,256,15.6,1090
+Samsung,Intel i7,8,512,17.0,940
+MSI,Intel i7,16,1024,17.3,1290
+Asus,AMD Ryzen 7,16,256,14.0,930
+MSI,AMD Ryzen 3,4,256,15.6,640
+Samsung,AMD Ryzen 7,32,1024,14.0,1250
+Dell,Intel i7,32,512,15.6,1120
+Asus,Intel i5,8,2048,15.6,940
+MSI,AMD Ryzen 5,16,1024,17.0,1120
+Asus,AMD Ryzen 9,8,1024,15.6,1170
+Microsoft,AMD Ryzen 7,8,1024,13.5,1110
+MSI,Intel i5,16,256,14.0,860
+Lenovo,AMD Ryzen 9,16,256,17.3,1200
+Microsoft,Intel i7,16,512,13.5,1100
+Asus,AMD Ryzen 9,32,256,14.0,1250
+Acer,Intel i5,16,256,15.6,670
+Samsung,Intel i5,12,512,14.0,760
+Apple,Apple M3,16,1024,14.2,1730
+HP,AMD Ryzen 9,8,512,15.6,1030
+HP,Intel i7,32,512,15.6,1130
+Samsung,Intel i9,8,256,15.6,1020
+HP,Intel i3,12,512,15.6,680
+MSI,Intel i9,16,256,15.6,1210
+Acer,Intel i7,16,1024,17.0,1120
+Lenovo,Intel i9,32,512,15.6,1300
+Apple,Apple M1,16,1024,14.2,1460
+HP,Intel i3,32,512,14.0,910
+MSI,AMD Ryzen 3,16,1024,15.6,860
+Apple,Apple M3,16,512,14.2,1620
+Acer,AMD Ryzen 9,32,512,15.6,1290
+Samsung,Intel i7,32,512,15.6,1120
+Apple,Apple M1,16,1024,14.2,1450
+Dell,AMD Ryzen 7,8,256,17.0,920
+Acer,AMD Ryzen 7,16,2048,17.0,1320
+Lenovo,Intel i7,32,512,17.3,1200
+Apple,Apple M2,12,256,13.6,1380
+HP,AMD Ryzen 7,16,512,15.6,980
+Acer,Intel i3,8,512,15.6,570
+Lenovo,AMD Ryzen 9,16,256,15.6,1040
+HP,AMD Ryzen 3,12,2048,15.6,980
+Dell,AMD Ryzen 7,32,512,15.6,1120
+Lenovo,AMD Ryzen 5,16,512,14.0,840
+Samsung,AMD Ryzen 5,8,1024,17.3,970
+Dell,Intel i9,32,256,15.6,1250
+Samsung,AMD Ryzen 5,8,2048,15.6,1040
+Lenovo,Intel i3,16,512,15.6,700
+Apple,Apple M1,8,512,14.2,1210
+Lenovo,AMD Ryzen 7,16,1024,14.0,1090
+Apple,Apple M2,8,1024,13.3,1460
+Samsung,Intel i5,8,512,15.6,720
+Dell,Intel i3,32,512,14.0,900
+Lenovo,Intel i9,16,256,15.6,1050
+Apple,Apple M3,8,512,13.6,1500
+Asus,AMD Ryzen 5,16,512,17.3,900
+Dell,Intel i9,8,512,14.0,1100
+Asus,AMD Ryzen 3,8,1024,15.6,660
+Acer,AMD Ryzen 3,8,1024,14.0,680
+Lenovo,Intel i3,16,2048,15.6,1010
+Asus,Intel i7,16,2048,15.6,1210
+MSI,Intel i9,32,256,15.6,1340
+Dell,AMD Ryzen 9,12,2048,15.6,1390
+MSI,AMD Ryzen 3,32,1024,17.0,1160
+Dell,Intel i9,16,256,14.0,1160
+MSI,Intel i9,16,512,15.6,1240
+Samsung,Intel i3,16,2048,17.3,1150
+Asus,Intel i5,8,512,17.0,830
+Microsoft,AMD Ryzen 7,8,512,13.5,1020
+Samsung,AMD Ryzen 7,16,512,15.6,1010
+Samsung,Intel i5,16,256,15.6,750
+Apple,Apple M3,16,512,14.2,1640
+Samsung,AMD Ryzen 3,16,512,14.0,750
+Acer,AMD Ryzen 3,12,1024,17.0,850
+Asus,AMD Ryzen 5,8,256,15.6,620
+MSI,AMD Ryzen 9,32,1024,14.0,1570
+Samsung,Intel i9,12,512,15.6,1120
+Dell,Intel i3,12,1024,15.6,780
+Samsung,AMD Ryzen 7,32,256,17.0,1220
+Microsoft,Intel i9,8,512,13.5,1210
+Apple,Apple M1,8,2048,13.6,1550
+MSI,Intel i9,8,256,15.6,1080
+Samsung,Intel i9,32,512,14.0,1350
+Dell,AMD Ryzen 5,4,256,17.0,700
+Dell,AMD Ryzen 5,8,512,17.3,820
+Samsung,Intel i3,12,1024,14.0,780
+MSI,AMD Ryzen 7,32,512,15.6,1210
+MSI,AMD Ryzen 5,16,2048,17.3,1280
+Acer,AMD Ryzen 7,16,512,15.6,890
+Lenovo,Intel i3,16,512,14.0,730
+Lenovo,AMD Ryzen 9,12,512,17.3,1170
+Acer,AMD Ryzen 5,8,512,15.6,700
+Apple,Apple M3,8,256,13.6,1480
+Asus,AMD Ryzen 3,8,256,15.6,500
+Acer,Intel i5,16,256,15.6,720
+Dell,AMD Ryzen 9,16,512,17.0,1290
+Dell,Intel i9,16,512,15.6,1110
+Lenovo,AMD Ryzen 9,16,1024,14.0,1280
+Dell,Intel i7,16,256,15.6,890
+Apple,Apple M2,16,512,13.6,1470
+Apple,Apple M1,8,256,14.2,1210
+MSI,Intel i3,16,1024,15.6,910
+Asus,AMD Ryzen 3,16,1024,17.3,900
+Apple,Apple M1,12,1024,13.3,1350
+Apple,Apple M3,16,512,13.6,1620
+Microsoft,Intel i9,8,1024,13.5,1320
+Apple,Apple M2,8,512,13.6,1370
+MSI,Intel i9,16,256,15.6,1220
+Lenovo,Intel i9,16,1024,17.0,1320
+Lenovo,AMD Ryzen 9,32,512,15.6,1270
+Samsung,Intel i9,16,256,15.6,1080
+HP,AMD Ryzen 9,16,512,14.0,1170
+Acer,AMD Ryzen 9,8,256,17.3,1100
+HP,Intel i7,8,1024,15.6,960
+Microsoft,Intel i9,16,512,13.5,1290
+Apple,Apple M1,16,256,14.2,1290
+Dell,AMD Ryzen 9,16,1024,15.6,1280
+Asus,AMD Ryzen 7,16,512,14.0,1000
+Microsoft,Intel i9,16,2048,13.5,1600
+Samsung,Intel i3,4,512,15.6,560
+Dell,Intel i5,16,256,15.6,720
+Acer,Intel i7,12,1024,15.6,970
+Acer,AMD Ryzen 3,12,2048,14.0,920
+Lenovo,Intel i5,16,512,17.3,920
+HP,Intel i7,12,1024,15.6,950
+Asus,AMD Ryzen 5,8,2048,15.6,980
+Microsoft,AMD Ryzen 5,4,1024,13.5,940
+Microsoft,Intel i9,4,256,13.5,1100
+Dell,AMD Ryzen 3,8,512,15.6,610
+Apple,Apple M3,16,512,14.2,1660
+Lenovo,Intel i3,8,512,15.6,570
+Dell,AMD Ryzen 5,8,1024,17.0,880
+Asus,Intel i5,8,1024,17.0,900
+Microsoft,AMD Ryzen 3,16,1024,13.5,980
+Apple,Apple M2,32,1024,14.2,1780
+Dell,Intel i3,16,1024,14.0,790
+Samsung,AMD Ryzen 7,32,512,15.6,1080
+Lenovo,Intel i7,8,512,15.6,800
+Samsung,Intel i3,16,1024,15.6,820
+MSI,AMD Ryzen 5,8,2048,15.6,1120
+Acer,AMD Ryzen 5,16,512,15.6,770
+Microsoft,Intel i9,32,512,13.5,1470
+Apple,Apple M3,16,2048,14.2,1900
+Acer,AMD Ryzen 5,12,512,14.0,750
+HP,Intel i7,16,256,15.6,860
+MSI,Intel i3,8,256,14.0,680
+Microsoft,Intel i3,16,512,13.5,830
+HP,AMD Ryzen 7,32,1024,17.3,1290
+Lenovo,Intel i7,16,1024,14.0,1030
+MSI,Intel i7,16,512,17.0,1150
+MSI,Intel i9,16,512,15.6,1250
+Apple,Apple M3,16,512,13.3,1590
+Microsoft,Intel i9,8,512,13.5,1250
+Lenovo,AMD Ryzen 7,8,256,14.0,800
+Dell,Intel i7,4,1024,14.0,950
+Acer,Intel i3,4,1024,15.6,670
+HP,Intel i9,16,512,17.3,1250
+Lenovo,AMD Ryzen 7,16,2048,15.6,1240
+Dell,Intel i9,8,1024,15.6,1100
+Dell,Intel i7,16,512,15.6,920
+Apple,Apple M3,8,1024,13.3,1580
+Asus,Intel i3,4,512,15.6,530
+Asus,AMD Ryzen 9,8,1024,17.0,1240
+Microsoft,AMD Ryzen 3,32,1024,13.5,1140
+Apple,Apple M3,16,2048,14.2,1980
+Samsung,Intel i9,16,2048,14.0,1490
+HP,AMD Ryzen 5,16,2048,17.3,1200
+Microsoft,Intel i5,16,1024,13.5,1050
+Apple,Apple M3,8,2048,13.6,1840
+Apple,Apple M2,16,512,13.6,1460
+MSI,AMD Ryzen 7,8,1024,15.6,1040
+Apple,Apple M2,4,512,14.2,1360
+MSI,Intel i3,12,2048,17.3,1160
+Dell,AMD Ryzen 3,16,1024,15.6,770
+HP,Intel i5,8,512,14.0,760
+Samsung,AMD Ryzen 5,16,512,15.6,840
+Lenovo,Intel i5,4,1024,15.6,720
+Asus,AMD Ryzen 7,16,512,17.3,1050
+Lenovo,AMD Ryzen 5,8,512,17.0,790
+Dell,AMD Ryzen 3,8,1024,15.6,680
+Acer,Intel i3,8,512,15.6,540
+Dell,Intel i5,12,512,15.6,780
+Microsoft,AMD Ryzen 7,16,1024,13.5,1200
+HP,Intel i7,16,1024,17.3,1170
+Lenovo,Intel i3,12,1024,14.0,730
+Apple,Apple M1,16,256,13.3,1280
+Microsoft,Intel i7,16,512,13.5,1140
+HP,AMD Ryzen 9,8,1024,17.3,1240
+Dell,Intel i7,8,256,14.0,830
+Samsung,AMD Ryzen 3,12,256,15.6,590
+Apple,Apple M2,16,2048,13.3,1740
+Asus,Intel i3,32,256,15.6,780
+Microsoft,Intel i3,16,1024,13.5,980
+Lenovo,Intel i3,8,512,17.3,660
+HP,AMD Ryzen 9,8,1024,15.6,1180
+Acer,Intel i3,32,256,14.0,780
+Acer,Intel i7,16,256,14.0,860
+Asus,AMD Ryzen 7,8,256,15.6,760
+Asus,AMD Ryzen 7,8,2048,15.6,1170
+Lenovo,Intel i3,16,256,17.3,770
+Asus,Intel i7,8,256,15.6,800
+MSI,Intel i5,8,256,15.6,740
+Samsung,Intel i7,12,512,14.0,980
+Samsung,AMD Ryzen 9,8,1024,15.6,1160
+Acer,AMD Ryzen 7,12,1024,15.6,1010
+Acer,Intel i9,32,1024,15.6,1380
+MSI,AMD Ryzen 9,32,1024,15.6,1500
+Acer,AMD Ryzen 5,32,512,15.6,940
+Dell,Intel i7,16,256,15.6,860
+Lenovo,AMD Ryzen 7,16,512,14.0,940
+Dell,AMD Ryzen 5,12,2048,15.6,1020
+Lenovo,Intel i9,12,1024,15.6,1180
+MSI,Intel i9,8,1024,15.6,1260
+HP,Intel i3,16,256,17.3,770
+Lenovo,AMD Ryzen 3,8,1024,17.0,820
+Samsung,AMD Ryzen 7,8,512,15.6,910
+Samsung,AMD Ryzen 7,32,256,15.6,1040
+Lenovo,Intel i7,32,1024,17.0,1300
+Lenovo,Intel i5,4,1024,15.6,750
+Dell,AMD Ryzen 7,8,1024,17.3,1100
+Acer,Intel i7,4,512,15.6,760
+Samsung,AMD Ryzen 3,8,256,14.0,630
+Apple,Apple M2,8,512,13.3,1380
+Asus,AMD Ryzen 7,8,512,15.6,820
+Asus,AMD Ryzen 3,8,512,17.3,720
+HP,AMD Ryzen 5,8,512,17.0,780
+Samsung,AMD Ryzen 3,16,512,14.0,760
+MSI,AMD Ryzen 3,8,512,15.6,700
+HP,AMD Ryzen 7,16,1024,15.6,1040
+Asus,AMD Ryzen 9,8,512,15.6,1070
+Apple,Apple M2,16,2048,14.2,1830
+Asus,Intel i9,16,512,15.6,1140
+Lenovo,Intel i9,12,512,15.6,1110
+Apple,Apple M2,16,512,13.6,1470
+Microsoft,Intel i7,32,2048,13.5,1530
+MSI,AMD Ryzen 5,8,2048,15.6,1100
+HP,Intel i3,8,1024,14.0,720
+Apple,Apple M1,32,512,13.6,1430
+Acer,Intel i7,16,1024,15.6,980
+Lenovo,AMD Ryzen 7,8,2048,14.0,1190
+Dell,AMD Ryzen 3,12,1024,17.3,870
+Apple,Apple M2,8,512,13.6,1370
+Samsung,Intel i9,16,512,15.6,1170
+Microsoft,Intel i5,12,2048,13.5,1230
+Acer,Intel i7,12,512,17.3,950
+Asus,Intel i5,8,1024,15.6,800
+Lenovo,AMD Ryzen 3,16,512,15.6,640
+Lenovo,Intel i3,8,512,15.6,570
+HP,Intel i9,16,512,15.6,1140
+Samsung,Intel i5,16,256,15.6,760
+Asus,AMD Ryzen 3,16,1024,14.0,810
+Apple,Apple M2,16,256,14.2,1410
+HP,Intel i7,12,512,14.0,890
+MSI,AMD Ryzen 5,8,512,15.6,790
+HP,AMD Ryzen 3,16,256,15.6,650
+Asus,Intel i5,8,1024,15.6,740
+MSI,Intel i5,16,2048,15.6,1160
+HP,Intel i5,16,1024,14.0,960
+Microsoft,AMD Ryzen 5,8,512,13.5,880
+HP,AMD Ryzen 3,16,1024,17.0,900
+MSI,Intel i5,16,256,15.6,840
+Acer,AMD Ryzen 3,8,256,17.0,600
+Asus,AMD Ryzen 5,16,512,17.0,880
+Lenovo,Intel i5,16,256,17.3,840
+HP,Intel i9,8,256,15.6,990
+Acer,Intel i9,16,1024,14.0,1220
+Apple,Apple M1,8,512,13.3,1200
+Asus,AMD Ryzen 9,12,256,15.6,1020
+HP,Intel i9,16,512,15.6,1100
+Lenovo,AMD Ryzen 3,16,512,15.6,690
+Acer,AMD Ryzen 9,16,512,14.0,1180
+HP,AMD Ryzen 5,8,512,14.0,730
+Lenovo,AMD Ryzen 3,16,512,17.3,810
+Lenovo,AMD Ryzen 7,8,256,17.3,910
+Lenovo,Intel i3,8,512,15.6,550
+Acer,Intel i9,16,512,17.3,1260
+Acer,AMD Ryzen 3,32,512,15.6,800
+MSI,AMD Ryzen 3,16,2048,15.6,1080
+Microsoft,AMD Ryzen 9,16,512,13.5,1350
+MSI,Intel i3,16,512,17.3,930
+Asus,AMD Ryzen 5,16,2048,15.6,1060
+MSI,AMD Ryzen 7,8,512,15.6,980
+HP,Intel i9,8,256,15.6,960
+MSI,Intel i5,8,512,15.6,780
+Acer,Intel i7,16,512,15.6,930
+Lenovo,Intel i5,8,256,15.6,600
+Acer,Intel i3,16,512,15.6,670
+MSI,AMD Ryzen 7,16,1024,15.6,1130
+Asus,AMD Ryzen 7,16,512,17.0,1020
+Asus,Intel i5,8,1024,15.6,790
+Asus,Intel i3,16,1024,17.0,860
+Asus,AMD Ryzen 9,16,512,15.6,1140
+MSI,Intel i3,16,256,17.3,900
+Samsung,Intel i3,16,512,15.6,720
+HP,AMD Ryzen 5,32,1024,14.0,1080
+Dell,AMD Ryzen 5,8,512,15.6,730
+Acer,Intel i7,4,1024,15.6,870
+Microsoft,AMD Ryzen 3,16,1024,13.5,1010
+Lenovo,AMD Ryzen 3,16,2048,17.0,1120
+Asus,Intel i5,16,256,15.6,690
+MSI,Intel i3,4,1024,14.0,800
+Dell,AMD Ryzen 3,32,2048,15.6,1140
+Microsoft,AMD Ryzen 5,16,1024,13.5,1040
+Microsoft,Intel i5,8,256,13.5,810
+HP,AMD Ryzen 3,32,2048,15.6,1120
+HP,AMD Ryzen 9,8,1024,17.0,1260
+Lenovo,AMD Ryzen 7,12,1024,15.6,990
+Apple,Apple M1,8,1024,13.3,1320
+Dell,AMD Ryzen 5,16,256,15.6,750
+Acer,AMD Ryzen 3,12,512,15.6,620
+Microsoft,AMD Ryzen 9,8,2048,13.5,1520
+Samsung,Intel i3,12,256,15.6,580
+Asus,Intel i7,12,512,15.6,870
+Lenovo,Intel i3,8,512,17.0,690
+Acer,Intel i5,8,256,15.6,630
+Asus,AMD Ryzen 7,12,512,14.0,950
+Asus,Intel i5,16,1024,15.6,840
+Samsung,Intel i7,8,1024,15.6,960
+Lenovo,Intel i9,4,512,15.6,1010
+Samsung,AMD Ryzen 9,16,1024,15.6,1280
+Apple,Apple M2,8,512,13.6,1340
+Apple,Apple M1,16,1024,13.3,1360
+Asus,AMD Ryzen 7,32,512,14.0,1150
+Asus,AMD Ryzen 7,8,256,17.0,870
+HP,Intel i5,8,256,14.0,700
+Lenovo,Intel i7,16,256,14.0,920
+Apple,Apple M1,32,1024,13.3,1560
+Asus,AMD Ryzen 7,12,512,17.3,1010
+MSI,AMD Ryzen 3,8,256,17.3,780
+Microsoft,AMD Ryzen 9,8,2048,13.5,1480
+Asus,Intel i5,4,256,15.6,580
+Asus,AMD Ryzen 9,8,256,15.6,970
+Dell,AMD Ryzen 9,16,512,15.6,1140
+Samsung,Intel i5,8,1024,17.0,910
+MSI,Intel i9,12,1024,15.6,1300
+Dell,Intel i3,12,512,14.0,680
+HP,AMD Ryzen 3,16,256,14.0,670
+MSI,Intel i3,16,512,15.6,770
+Apple,Apple M3,8,256,13.6,1500
+Asus,Intel i9,32,256,15.6,1260
+Asus,Intel i5,8,2048,17.3,1100
+Apple,Apple M1,32,2048,14.2,1760
+MSI,AMD Ryzen 9,16,256,14.0,1250
+MSI,Intel i5,8,1024,14.0,960
+HP,Intel i5,12,512,14.0,740
+Samsung,Intel i3,16,1024,14.0,830
+Acer,AMD Ryzen 5,32,1024,15.6,1040
+Microsoft,Intel i9,16,256,13.5,1300
+Apple,Apple M1,16,512,13.6,1330
+Lenovo,AMD Ryzen 7,32,1024,15.6,1160
+Acer,AMD Ryzen 3,16,512,17.0,810
+HP,AMD Ryzen 9,8,512,15.6,1080
+Asus,AMD Ryzen 3,16,512,15.6,670
+MSI,AMD Ryzen 5,8,512,17.0,940
+Asus,Intel i7,32,1024,14.0,1250
+Asus,Intel i3,8,256,15.6,540
+MSI,Intel i9,8,256,15.6,1070
+Apple,Apple M1,8,1024,14.2,1330
+Asus,Intel i7,32,256,15.6,990
+Acer,AMD Ryzen 9,8,2048,15.6,1300
+Acer,Intel i5,8,1024,15.6,760
+Apple,Apple M2,8,1024,13.6,1490
+Samsung,AMD Ryzen 7,16,2048,17.0,1410
+Apple,Apple M1,32,2048,13.6,1750
+Microsoft,AMD Ryzen 9,8,256,13.5,1210
+Microsoft,Intel i7,8,1024,13.5,1120
+Microsoft,Intel i7,32,1024,13.5,1320
+MSI,Intel i7,16,256,17.3,1120
+Apple,Apple M1,4,2048,13.6,1500
+Asus,AMD Ryzen 3,8,512,14.0,660
+Samsung,AMD Ryzen 3,16,1024,15.6,800
+Acer,Intel i3,8,512,15.6,530
+HP,AMD Ryzen 3,16,512,14.0,780
+Lenovo,Intel i3,32,1024,17.0,1000
+Dell,Intel i5,16,1024,17.3,990
+MSI,AMD Ryzen 5,4,512,15.6,770
+MSI,AMD Ryzen 5,8,256,15.6,730
+Samsung,Intel i5,8,512,15.6,750
+Acer,AMD Ryzen 5,8,1024,14.0,800
+Microsoft,AMD Ryzen 9,8,512,13.5,1250
+Microsoft,Intel i3,16,1024,13.5,980
+Apple,Apple M3,16,256,14.2,1570
+Apple,Apple M2,16,512,13.3,1480
+Microsoft,AMD Ryzen 5,8,512,13.5,840
+Samsung,AMD Ryzen 5,16,256,15.6,750
+Acer,Intel i3,16,512,17.3,750
+Lenovo,AMD Ryzen 3,16,512,15.6,660
+Acer,Intel i3,8,1024,15.6,670
+Microsoft,AMD Ryzen 3,32,512,13.5,1010
+Samsung,Intel i7,16,256,15.6,890
+Apple,Apple M1,12,512,13.6,1300
+Asus,Intel i3,8,256,14.0,560
+MSI,AMD Ryzen 3,16,512,15.6,760
+HP,Intel i5,16,2048,15.6,1080
+Asus,Intel i7,8,256,15.6,770
+MSI,Intel i5,32,512,15.6,1010
+Microsoft,Intel i3,12,512,13.5,820
+MSI,Intel i7,32,512,15.6,1160
+Acer,AMD Ryzen 3,16,256,15.6,620
+Lenovo,AMD Ryzen 9,16,512,17.0,1250
+MSI,Intel i3,8,1024,15.6,800
+Microsoft,Intel i3,8,256,13.5,730
+Dell,AMD Ryzen 7,32,512,14.0,1120
+Asus,AMD Ryzen 7,16,512,15.6,950
+Asus,AMD Ryzen 5,16,512,17.3,950
+HP,Intel i3,8,1024,14.0,750
+Dell,AMD Ryzen 5,32,512,17.3,1080
+Dell,AMD Ryzen 7,12,256,14.0,860
+Apple,Apple M2,16,1024,13.3,1530
+Acer,Intel i5,16,256,14.0,740
+MSI,AMD Ryzen 9,8,512,14.0,1190
+Samsung,Intel i3,16,512,15.6,740
+MSI,AMD Ryzen 5,12,2048,14.0,1220
+Samsung,Intel i5,32,256,14.0,970
+Dell,Intel i5,16,1024,15.6,870
+Lenovo,Intel i3,4,512,15.6,530
+Acer,Intel i3,16,512,14.0,700
+Lenovo,Intel i7,8,256,15.6,740
+Lenovo,Intel i7,16,512,14.0,950
+Apple,Apple M1,16,512,13.3,1270
+Acer,Intel i9,16,256,14.0,1110
